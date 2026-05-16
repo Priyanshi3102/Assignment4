@@ -5,13 +5,12 @@ import json
 
 # List of commands
 commands = [
-    "pwd",
-    "ls",
-    "df -h",
-    "pwd",
+    "cd",
+    "dir",
+    "ipconfig",
+    "cd",
     "invalid_command"
 ]
-
 # Remove duplicate commands while preserving order
 unique_commands = list(dict.fromkeys(commands))
 

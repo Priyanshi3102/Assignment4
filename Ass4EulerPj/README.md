@@ -65,7 +65,8 @@ Assignment4/
 │
 └── ExeOSCmds/
     ├── execute_commands.py
-    └── Output(A4).png
+    └── Output1(A4).png,Output2(A4).png
+    
 ```
 
 ---
@@ -117,7 +118,7 @@ python execute_commands.py
 
 - P63_Output.png → Successful execution output of Problem 63
 - P313_Output.png → Successful execution output of Problem 313
-- Output(A4).png → Successful execution output of Execute OS Commands project
+- Output1(A4).png,Output2(A4).png → Successful execution output of Execute OS Commands project
 
 ---
 
